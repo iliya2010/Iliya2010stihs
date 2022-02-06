@@ -1,0 +1,29 @@
+a{
+color:red;
+}
+
+#Moyacovscy{
+font-size:32px;
+}
+
+p{
+font-size:32px;
+}
+
+body{
+color:black;
+background-color:white;
+}
+
+div{
+webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    width: 930px;
+    margin: 6px auto 10px auto;
+    padding: 60px 25px 20px;
+    position: relative;
+    background: #FFEBCD;
+    color: black;
+    border: 1px solid #DEB887;
+}
